@@ -1,9 +1,9 @@
 {
     "manifestVersion": 1,
-    "id": "publish-markdown-reports-test",
-    "publisher": "MasamitsuMurase",
-    "version": "1.2.1",
-    "name": "Publish Markdown Reports Test",
+    "id": "publish-markdown-reports-ci",
+    "publisher": "WelfareCI",
+    "version": "1.0.3",
+    "name": "Publish Markdown Reports - CI Team",
     "description": "An extension to publish markdown reports in build result tab.",
     "public": false,
     "categories": [
@@ -57,10 +57,10 @@
                 "ms.vss-build-web.build-results-view"
             ],
             "properties": {
-                "name": "Markdown reports",
+                "name": "CI Platform Info",
                 "uri": "contents/markdown_tab.html",
                 "supportsTasks": [
-                    "d7644b30-c241-4359-a984-c1a113cdae39"
+                    "043f81eb-a033-4c22-9800-7e2256b86cba"
                 ]
             }
         },

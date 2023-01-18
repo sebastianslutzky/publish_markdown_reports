@@ -1,12 +1,12 @@
 {
     "$schema": "https://raw.githubusercontent.com/Microsoft/azure-pipelines-task-lib/master/tasks.schema.json",
-    "id": "d7644b30-c241-4359-a984-c1a113cdae39",
+    "id": "043f81eb-a033-4c22-9800-7e2256b86cba",
     "name": "PublishMarkdownReports",
-    "friendlyName": "Publish Markdown reports",
-    "description": "A task to publish Markdown reports in a tab in your build result.",
+    "friendlyName": "Publish Markdown reports -CI ",
+    "description": "A task to publish Markdown reports in a tab in your build result. (CI)",
     "helpMarkDown": "",
     "category": "Utility",
-    "author": "Masamitsu MURASE",
+    "author": "Welare CI",
     "version": {
         "Major": 1,
         "Minor": 2,
